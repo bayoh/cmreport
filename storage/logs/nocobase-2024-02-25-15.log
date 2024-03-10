@@ -1,0 +1,12 @@
+{"level":"info","message":"BEGIN: GET /admin/index.html","reqId":"7aeaac9a-3e06-4e47-8a49-c275aa907508","timestamp":"2024-02-25T15:00:36.083Z"}
+{"level":"warn","message":"END: GET /admin/index.html","req":{},"reqId":"7aeaac9a-3e06-4e47-8a49-c275aa907508","res":{"status":404},"responseTime":10,"timestamp":"2024-02-25T15:00:36.094Z"}
+{"level":"info","message":"BEGIN: GET /index.html","reqId":"616e8fab-219e-4cc8-acda-75069777e1dc","timestamp":"2024-02-25T15:01:16.841Z"}
+{"level":"warn","message":"END: GET /index.html","req":{},"reqId":"616e8fab-219e-4cc8-acda-75069777e1dc","res":{"status":404},"responseTime":6,"timestamp":"2024-02-25T15:01:16.847Z"}
+{"level":"info","message":"BEGIN: GET /+CSCOE+/logon.html","reqId":"82a66a6b-d739-4b94-8619-a40b0d9f93b2","timestamp":"2024-02-25T15:02:05.610Z"}
+{"level":"warn","message":"END: GET /+CSCOE+/logon.html","req":{},"reqId":"82a66a6b-d739-4b94-8619-a40b0d9f93b2","res":{"status":404},"responseTime":1,"timestamp":"2024-02-25T15:02:05.611Z"}
+{"level":"info","message":"BEGIN: GET /login.jsp","reqId":"c4a5f31a-dd05-4ca8-9178-c1865eb12332","timestamp":"2024-02-25T15:04:36.034Z"}
+{"level":"warn","message":"END: GET /login.jsp","req":{},"reqId":"c4a5f31a-dd05-4ca8-9178-c1865eb12332","res":{"status":404},"responseTime":2,"timestamp":"2024-02-25T15:04:36.036Z"}
+{"level":"info","message":"BEGIN: GET /doc/index.html","reqId":"75887612-185b-4d6c-8452-b3639b021f93","timestamp":"2024-02-25T15:05:26.709Z"}
+{"level":"warn","message":"END: GET /doc/index.html","req":{},"reqId":"75887612-185b-4d6c-8452-b3639b021f93","res":{"status":404},"responseTime":1,"timestamp":"2024-02-25T15:05:26.710Z"}
+{"level":"info","message":"BEGIN: GET /","reqId":"983125e2-f533-4c28-a991-aa6585d552c2","timestamp":"2024-02-25T15:06:17.118Z"}
+{"level":"warn","message":"END: GET /","req":{},"reqId":"983125e2-f533-4c28-a991-aa6585d552c2","res":{"status":404},"responseTime":1,"timestamp":"2024-02-25T15:06:17.119Z"}

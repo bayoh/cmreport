@@ -1,0 +1,4 @@
+{"level":"info","message":"auth: Start delete expired blacklist token","timestamp":"2024-03-02T03:00:00.009Z"}
+{"level":"info","message":"auth: End delete expired blacklist token","timestamp":"2024-03-02T03:00:00.062Z"}
+{"level":"info","message":"BEGIN: GET /api/session/properties","reqId":"b6ea00b1-9ccb-47b3-b69c-4d34b77eb355","timestamp":"2024-03-02T03:00:17.497Z"}
+{"level":"warn","message":"END: GET /api/session/properties","req":{},"reqId":"b6ea00b1-9ccb-47b3-b69c-4d34b77eb355","res":{"status":404},"responseTime":2,"timestamp":"2024-03-02T03:00:17.499Z"}

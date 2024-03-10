@@ -1,0 +1,2 @@
+{"level":"info","message":"BEGIN: GET /api/.git/config","reqId":"8a277b72-cad7-4102-94df-90c1c93d34fd","timestamp":"2024-03-01T07:17:16.949Z"}
+{"level":"warn","message":"END: GET /api/.git/config","req":{},"reqId":"8a277b72-cad7-4102-94df-90c1c93d34fd","res":{"status":404},"responseTime":5,"timestamp":"2024-03-01T07:17:16.954Z"}

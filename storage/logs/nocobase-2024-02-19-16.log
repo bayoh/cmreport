@@ -1,0 +1,6 @@
+{"level":"info","message":"BEGIN: GET http://v6.ipv6-test.com/json/widgetdata.php?callback=?","reqId":"94882596-2f0e-430d-b667-238a3a236736","timestamp":"2024-02-19T16:28:05.473Z"}
+{"level":"warn","message":"END: GET http://v6.ipv6-test.com/json/widgetdata.php?callback=?","req":{},"reqId":"94882596-2f0e-430d-b667-238a3a236736","res":{"status":404},"responseTime":6,"timestamp":"2024-02-19T16:28:05.479Z"}
+{"level":"info","message":"BEGIN: GET http://azenv.net/","reqId":"70920dd7-d3b6-4e17-8f53-037686589e73","timestamp":"2024-02-19T16:28:13.955Z"}
+{"level":"warn","message":"END: GET http://azenv.net/","req":{},"reqId":"70920dd7-d3b6-4e17-8f53-037686589e73","res":{"status":404},"responseTime":1,"timestamp":"2024-02-19T16:28:13.956Z"}
+{"level":"info","message":"BEGIN: GET http://v4.ipv6-test.com/json/widgetdata.php?callback=?","reqId":"91d9186e-02a2-4031-845c-c34cb20e2dc0","timestamp":"2024-02-19T16:28:22.433Z"}
+{"level":"warn","message":"END: GET http://v4.ipv6-test.com/json/widgetdata.php?callback=?","req":{},"reqId":"91d9186e-02a2-4031-845c-c34cb20e2dc0","res":{"status":404},"responseTime":1,"timestamp":"2024-02-19T16:28:22.434Z"}

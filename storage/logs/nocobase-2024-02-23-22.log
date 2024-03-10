@@ -1,0 +1,2 @@
+{"level":"info","message":"BEGIN: GET /","reqId":"b1165b5b-b426-43a5-ba67-cceee1bb547b","timestamp":"2024-02-23T22:14:12.609Z"}
+{"level":"warn","message":"END: GET /","req":{},"reqId":"b1165b5b-b426-43a5-ba67-cceee1bb547b","res":{"status":404},"responseTime":8,"timestamp":"2024-02-23T22:14:12.617Z"}

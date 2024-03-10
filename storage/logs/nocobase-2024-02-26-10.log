@@ -1,0 +1,2 @@
+{"level":"info","message":"BEGIN: GET /api/session/properties","reqId":"1f02f3cf-8dde-4c09-b52f-dfe0d5c2c6ff","timestamp":"2024-02-26T10:48:34.850Z"}
+{"level":"warn","message":"END: GET /api/session/properties","req":{},"reqId":"1f02f3cf-8dde-4c09-b52f-dfe0d5c2c6ff","res":{"status":404},"responseTime":5,"timestamp":"2024-02-26T10:48:34.854Z"}

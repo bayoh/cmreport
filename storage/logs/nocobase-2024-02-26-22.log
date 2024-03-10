@@ -1,0 +1,2 @@
+{"level":"info","message":"BEGIN: GET /adminws","reqId":"16c42dde-99b5-4e8b-b7b6-ea06c6db582d","timestamp":"2024-02-26T22:08:08.526Z"}
+{"level":"warn","message":"END: GET /adminws","req":{},"reqId":"16c42dde-99b5-4e8b-b7b6-ea06c6db582d","res":{"status":404},"responseTime":10,"timestamp":"2024-02-26T22:08:08.536Z"}

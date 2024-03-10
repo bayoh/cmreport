@@ -1,0 +1,4 @@
+{"level":"info","message":"BEGIN: GET /api/.env","reqId":"73091c55-6d7e-4d89-9de1-c3e20aae4177","timestamp":"2024-02-28T19:02:57.051Z"}
+{"level":"warn","message":"END: GET /api/.env","req":{},"reqId":"73091c55-6d7e-4d89-9de1-c3e20aae4177","res":{"status":404},"responseTime":10,"timestamp":"2024-02-28T19:02:57.061Z"}
+{"level":"info","message":"BEGIN: GET /api/.env","reqId":"5e574638-b116-44fd-bc5e-83d1041ee769","timestamp":"2024-02-28T19:03:18.049Z"}
+{"level":"warn","message":"END: GET /api/.env","req":{},"reqId":"5e574638-b116-44fd-bc5e-83d1041ee769","res":{"status":404},"responseTime":1,"timestamp":"2024-02-28T19:03:18.050Z"}

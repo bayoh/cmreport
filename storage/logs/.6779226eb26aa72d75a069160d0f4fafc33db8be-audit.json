@@ -1,0 +1,375 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/root/my-nocobase-app/storage/logs/.6779226eb26aa72d75a069160d0f4fafc33db8be-audit.json",
+    "files": [
+        {
+            "date": 1708211132128,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-17-23.log",
+            "hash": "5156ea99c699e8a05e2b0d3c28d70c4d13a41a0a4d0138f0a40b86ca586ceb51"
+        },
+        {
+            "date": 1708225200009,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-18-03.log",
+            "hash": "bc4bc172276befa72ac658387cd716aa98ead79cf9b745359ee967b2a96fd4cc"
+        },
+        {
+            "date": 1708234735236,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-18-05.log",
+            "hash": "73f082a803c2f9552e625ff3110e9bf74da5371a90777bd225683340523345cf"
+        },
+        {
+            "date": 1708263633551,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-18-13.log",
+            "hash": "a371829072b0996f92638d16e3bc31e4d7a81ed4fbe371694de1246a709c754c"
+        },
+        {
+            "date": 1708268300832,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-18-14.log",
+            "hash": "255821ab616772c0945c58afd37f493ea09dcc98ccc0784779728c616275a681"
+        },
+        {
+            "date": 1708274749421,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-18-16.log",
+            "hash": "8bbccbc52e89a580b2ffc5ea9e8b676a4dfb5b5193af1077374e23bf41f0019b"
+        },
+        {
+            "date": 1708293131003,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-18-21.log",
+            "hash": "8a6a83b40231f80f4f27ce0d9167e6318d7326ed27001756e430f7b0e53b2345"
+        },
+        {
+            "date": 1708311600015,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-19-03.log",
+            "hash": "0ba3a55ba82a0c8b7d655a6dc5da2a95f0af29d1d7a6780a1c6292262db4e540"
+        },
+        {
+            "date": 1708342280666,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-19-11.log",
+            "hash": "d8c4f97579595a27208e3cb18cde2ff91f41702e8d21358cebe2873800d6378d"
+        },
+        {
+            "date": 1708360085474,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-19-16.log",
+            "hash": "0f623c9cd6272ad241ad57bb7d3bb82c049e08370dc4d127fe7699ddd61d0113"
+        },
+        {
+            "date": 1708365006194,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-19-17.log",
+            "hash": "121aa03a887e781b480c62d5f3f3dfbcba87b7647b4994c8ee0fd91584bb24d8"
+        },
+        {
+            "date": 1708366143524,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-19-18.log",
+            "hash": "2bc57e344e0c79f328d7cab1e6e74d290a88afb9229a02fc618ba47b5e6c0399"
+        },
+        {
+            "date": 1708398000021,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-20-03.log",
+            "hash": "050f9af019c5649099b240a7fa33287f0a2c3ac799728831c042fd1d9de490ab"
+        },
+        {
+            "date": 1708436462301,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-20-13.log",
+            "hash": "08fb4ee46741ade773292947c90a8c806bfec7c3c6c8a9e199d4c24cb9b8b53d"
+        },
+        {
+            "date": 1708437970024,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-20-14.log",
+            "hash": "dc79413b1d9dd56ecc86153ea149c7626e02ac379f8c5b53f75f6537f359bb0b"
+        },
+        {
+            "date": 1708441724772,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-20-15.log",
+            "hash": "119110f09a3905be2b0db6019db3c1d0f58bdedfa4027a40e8d4fac5a428e7ae"
+        },
+        {
+            "date": 1708462351322,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-20-20.log",
+            "hash": "e7d581750a29a593c86af77fddd2a17dc85b6d0f93798af03c4442c6c66a49f1"
+        },
+        {
+            "date": 1708466857000,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-20-22.log",
+            "hash": "81665b3029631f60cee4cbd2eb68326bd75a4f804bda2798acb19aed4e13e926"
+        },
+        {
+            "date": 1708484400017,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-21-03.log",
+            "hash": "17eff326f5059a67cdd0024d8c71b66b2462785942dc2f242a21aaac380f07b0"
+        },
+        {
+            "date": 1708499064790,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-21-07.log",
+            "hash": "f244c611211a681bfae54c371bd003c883fd62bf44c8f10ced0cb8665d907650"
+        },
+        {
+            "date": 1708511290968,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-21-10.log",
+            "hash": "b071e58ccdef7f157186e41c664d8acc3595aa4f34138257e3be18f114f7326a"
+        },
+        {
+            "date": 1708513551667,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-21-11.log",
+            "hash": "837e5ee52635e8c1d9042b737929c3b9a6c695b243e268e895b694a34b5c2710"
+        },
+        {
+            "date": 1708570800010,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-22-03.log",
+            "hash": "7a95765fa0ac7fb72fd1a51517831ee76edd45942a728df1610efb6fe10a72b0"
+        },
+        {
+            "date": 1708583621956,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-22-06.log",
+            "hash": "376eb0ab5c57bf5c4b83292cc4651da8d58dfdab5ffe932482912d8432ec6827"
+        },
+        {
+            "date": 1708615413439,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-22-15.log",
+            "hash": "16974dfb0afc8cb1bef253804216a231b3841f2020bb229d3680fb83cef08c81"
+        },
+        {
+            "date": 1708649177209,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-23-00.log",
+            "hash": "e7bdef35d83feaa0b369ef055e73609bf6d07032d67c7a1167868017c781a9a1"
+        },
+        {
+            "date": 1708657200014,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-23-03.log",
+            "hash": "a3003d67d9ab2277a779a2e04c0d57ad7d67e527303ce0b0c8ae6fc8765c1ce7"
+        },
+        {
+            "date": 1708699369056,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-23-14.log",
+            "hash": "35f476e9d27df3f085c1fc43277b11a6cc846e00880f5abdb37f792a060ce1f4"
+        },
+        {
+            "date": 1708706170934,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-23-16.log",
+            "hash": "0dd06ff137ed00f268a86a12e2989c2637c3989c541d79263379c3f6f53f9f4b"
+        },
+        {
+            "date": 1708723804667,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-23-21.log",
+            "hash": "11888f5311668a454552cc55743281197a573a2c5b031d45360a23a34a91634b"
+        },
+        {
+            "date": 1708726452610,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-23-22.log",
+            "hash": "d34f25eafeeac91e8444acbd694c01c3c975d44337d47f69984525439dfc2ca9"
+        },
+        {
+            "date": 1708743600008,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-24-03.log",
+            "hash": "cfaacaf8ac4c7fb42cf8ce0486af1b40f1ef10b6a923d80a194de2a29581c658"
+        },
+        {
+            "date": 1708755807917,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-24-06.log",
+            "hash": "04f4aa0d9743ef9487a01272405a636fb59ef6e1046085cf68bbb7ac05bbff7a"
+        },
+        {
+            "date": 1708769215926,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-24-10.log",
+            "hash": "afbe15d201b87d8d27a90eb10144510f44307c468335ca79114fa9dca4682844"
+        },
+        {
+            "date": 1708798997384,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-24-18.log",
+            "hash": "8549e8c6f8641886b31a8e72fc3ad9d7bf1c3e3fc82c45a5c53af1455e0d05c5"
+        },
+        {
+            "date": 1708830000013,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-25-03.log",
+            "hash": "9efba9c103ba4ae4046bf584cb2447f67f40954330f84fe1ee54a2aed72cf581"
+        },
+        {
+            "date": 1708873236083,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-25-15.log",
+            "hash": "11ac1729aa07c346eae6226db3c386c67dde5a4a18e07e5fcf1085bba5059006"
+        },
+        {
+            "date": 1708890768948,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-25-19.log",
+            "hash": "f06e31547eee3d0c6047002a4f41ca3818448c3f4f01bf4f18dd94a79388ea6d"
+        },
+        {
+            "date": 1708916400007,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-26-03.log",
+            "hash": "895ca47d4166bd431941a2451b97b914c99028cb775f758d9b362ab88660b0a8"
+        },
+        {
+            "date": 1708928307263,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-26-06.log",
+            "hash": "8343265df21c23e9b55552a0f6fa2a20a943855f1b87f2b7746c4ace13ab06d8"
+        },
+        {
+            "date": 1708944514850,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-26-10.log",
+            "hash": "0359e0c4875cbc71b2aefda41edf4451a20dd0c2c6f39bc8bceb9bd089e53f70"
+        },
+        {
+            "date": 1708952548498,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-26-13.log",
+            "hash": "64f6de087eba56678ae5fe3cfd8e1f34ddceb3da1dc795e24e33f1181e5689b7"
+        },
+        {
+            "date": 1708959452366,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-26-14.log",
+            "hash": "7e0106669e84115c6f3270b9e2ab057c741f124735caef582d3da967e7e20be2"
+        },
+        {
+            "date": 1708982580516,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-26-21.log",
+            "hash": "004b28125daec9f9dae5039e1d8ccbf854311169447a7f9d55b4fc28121287be"
+        },
+        {
+            "date": 1708985288527,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-26-22.log",
+            "hash": "c6f5f31f8cd16c95b1b68ff5d1de6d5f2591bb9b00513938b6f97ae77c6705fc"
+        },
+        {
+            "date": 1709002800018,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-27-03.log",
+            "hash": "b3b7fb0d7d170423ff540eaea88caab7fa8fc95bad8b7a6302dd597ac2610605"
+        },
+        {
+            "date": 1709033227262,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-27-11.log",
+            "hash": "64b4a0a0aa84450e29c85d7f18c55c937ce627be7b736e170df7e9621b170f09"
+        },
+        {
+            "date": 1709039588964,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-27-13.log",
+            "hash": "17ad03c1017fe699d720abddc4ce4b65f4d2a90befd0e733a62674c3ad49846e"
+        },
+        {
+            "date": 1709089200016,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-28-03.log",
+            "hash": "9ddbe2442eb5dcb2d5b069d8fec53e600921ef28f1eb9cab9107dbbf53e734f5"
+        },
+        {
+            "date": 1709100210752,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-28-06.log",
+            "hash": "54bf92977410cba050614017e47af60cce429297fb3f48e22c4147958df60780"
+        },
+        {
+            "date": 1709146977051,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-28-19.log",
+            "hash": "2f08c50e3f7e924f0c23f5ef6dbdc32a96405ad764da90f119b6a03f796a0b8b"
+        },
+        {
+            "date": 1709175600016,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-29-03.log",
+            "hash": "2f71c47e7b430194fdb0d7e3c5d9a667d9938f3d753dcce104d512456e98bd78"
+        },
+        {
+            "date": 1709181074049,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-29-04.log",
+            "hash": "c8a1d4aac11a30b4d5433061f534320db2a5aa723917b0f666c0ce3664c5859e"
+        },
+        {
+            "date": 1709221863570,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-29-15.log",
+            "hash": "e9102aec209a92873fee8b196fc6f10995067f1c18e9936a887138947818c7ff"
+        },
+        {
+            "date": 1709222449732,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-29-16.log",
+            "hash": "45d445b496de0650640bb89917457ee16bcf6a0e91072cdfba20fad54042a100"
+        },
+        {
+            "date": 1709239363028,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-02-29-20.log",
+            "hash": "7ab939ebb3913e10c1c1da6240df1ed290666f05b7434e839f48341e124fcbb1"
+        },
+        {
+            "date": 1709253843334,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-00.log",
+            "hash": "dea68aa5889a935f04c53ae3408619936d8b3b03e5673785ad8c3254f2886876"
+        },
+        {
+            "date": 1709262000011,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-03.log",
+            "hash": "65988889bd59fa2f62c218abe96aa2cd5be388ae74e102256a2d4f27866c5e57"
+        },
+        {
+            "date": 1709277436950,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-07.log",
+            "hash": "faf59f4091a584fc41a42e0acd184752aea42ce298514ae9dca509d81e0590b1"
+        },
+        {
+            "date": 1709283402308,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-08.log",
+            "hash": "acd6ff1e4e7629023ccfddc9db97037b7845bd3080837baafc1e8d674b403081"
+        },
+        {
+            "date": 1709283663706,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-09.log",
+            "hash": "010a14fc53046fcaf26fffe6acc5e25a75e8e1cd5ccfc94cc6a9f196fe0ba8e6"
+        },
+        {
+            "date": 1709287988408,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-10.log",
+            "hash": "2f031e070c62ae2b23c58b1990b134c7375743709afcb72dd4508b74f9d29800"
+        },
+        {
+            "date": 1709291013744,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-11.log",
+            "hash": "ef12c0bbd618f700cd2f40911cd8516dfea0b6dcfd886e04ca91ec4b8a1d682a"
+        },
+        {
+            "date": 1709294441213,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-12.log",
+            "hash": "e4775827e30d91fdf8f69c1cd992f5fbca3db2fc4a620a0989a678306b53612e"
+        },
+        {
+            "date": 1709298140970,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-13.log",
+            "hash": "17c7b874544cb12c4badccf738b377ea57d047fb8056b6c1021c891e2b384371"
+        },
+        {
+            "date": 1709301857398,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-14.log",
+            "hash": "9d9d92bd1e745e94c442915df5691bed5ae2b0f485d7655fb5ab34fb9abf64aa"
+        },
+        {
+            "date": 1709305234792,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-15.log",
+            "hash": "0d664e9ed7e1222d53ddae7d324850e017e27f5b92efee03b149f7c01179fc9d"
+        },
+        {
+            "date": 1709308975647,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-16.log",
+            "hash": "4e8b64e56b8b4eec8947eac7183d4a03df5e7bb71809bf1d7c9826f5d93821c3"
+        },
+        {
+            "date": 1709320371045,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-19.log",
+            "hash": "19105b9e02f3ffec67926b4a051d6aea3eca0711f2d07bee866fecf2c5918ff3"
+        },
+        {
+            "date": 1709326724657,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-01-20.log",
+            "hash": "3383c0e1ed222c936ce35b0807a4e5c037a1b79f2765773cd47042cfb8014f96"
+        },
+        {
+            "date": 1709338325403,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-02-00.log",
+            "hash": "1b9d7655062a80defa1c273e1b8374f9c4f4820c38b3461a1a53c973e18ac843"
+        },
+        {
+            "date": 1709348400010,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-02-03.log",
+            "hash": "82da850b309306d418243e11ab6b5ec3fa54fd0a5af24a828a2ce6228c1c071d"
+        },
+        {
+            "date": 1709361065374,
+            "name": "/root/my-nocobase-app/storage/logs/nocobase-2024-03-02-06.log",
+            "hash": "16189b955dc205ff6ae6283d3abe78d1b1d5955f3bf569ded6bb071b8fdcbec8"
+        }
+    ],
+    "hashType": "sha256"
+}

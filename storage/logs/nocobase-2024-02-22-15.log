@@ -1,0 +1,4 @@
+{"level":"info","message":"BEGIN: GET /","reqId":"02160649-f61e-476d-8079-8d1bf88e45e1","timestamp":"2024-02-22T15:23:33.438Z"}
+{"level":"warn","message":"END: GET /","req":{},"reqId":"02160649-f61e-476d-8079-8d1bf88e45e1","res":{"status":404},"responseTime":10,"timestamp":"2024-02-22T15:23:33.448Z"}
+{"level":"info","message":"BEGIN: GET /","reqId":"8a071bfc-05a6-439c-8965-4cd6b8b62c87","timestamp":"2024-02-22T15:53:38.004Z"}
+{"level":"warn","message":"END: GET /","req":{},"reqId":"8a071bfc-05a6-439c-8965-4cd6b8b62c87","res":{"status":404},"responseTime":2,"timestamp":"2024-02-22T15:53:38.006Z"}

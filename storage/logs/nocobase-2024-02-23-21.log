@@ -1,0 +1,4 @@
+{"level":"info","message":"BEGIN: GET /cgi-bin/login.cgi","reqId":"65720b9b-c320-4d52-98ce-58cdbf1ada5f","timestamp":"2024-02-23T21:30:04.666Z"}
+{"level":"warn","message":"END: GET /cgi-bin/login.cgi","req":{},"reqId":"65720b9b-c320-4d52-98ce-58cdbf1ada5f","res":{"status":404},"responseTime":9,"timestamp":"2024-02-23T21:30:04.675Z"}
+{"level":"info","message":"BEGIN: GET /login.jsp","reqId":"b170f8c6-5c69-4cbe-8895-b8a707237b2d","timestamp":"2024-02-23T21:35:28.851Z"}
+{"level":"warn","message":"END: GET /login.jsp","req":{},"reqId":"b170f8c6-5c69-4cbe-8895-b8a707237b2d","res":{"status":404},"responseTime":2,"timestamp":"2024-02-23T21:35:28.853Z"}

@@ -1,0 +1,2 @@
+{"level":"info","message":"BEGIN: GET /api/.env","reqId":"27f74fee-8eeb-4fff-b605-143086e192b5","timestamp":"2024-02-17T23:05:32.127Z"}
+{"level":"warn","message":"END: GET /api/.env","req":{},"reqId":"27f74fee-8eeb-4fff-b605-143086e192b5","res":{"status":404},"responseTime":11,"timestamp":"2024-02-17T23:05:32.138Z"}

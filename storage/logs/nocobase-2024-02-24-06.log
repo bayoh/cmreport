@@ -1,0 +1,6 @@
+{"level":"info","message":"BEGIN: GET /","reqId":"d96674a0-4974-4d19-9818-97d81aaf31c5","timestamp":"2024-02-24T06:23:27.917Z"}
+{"level":"warn","message":"END: GET /","req":{},"reqId":"d96674a0-4974-4d19-9818-97d81aaf31c5","res":{"status":404},"responseTime":6,"timestamp":"2024-02-24T06:23:27.924Z"}
+{"level":"info","message":"BEGIN: GET /","reqId":"913829b8-f149-4c30-ae8d-7be366f30a7e","timestamp":"2024-02-24T06:23:38.839Z"}
+{"level":"warn","message":"END: GET /","req":{},"reqId":"913829b8-f149-4c30-ae8d-7be366f30a7e","res":{"status":404},"responseTime":4,"timestamp":"2024-02-24T06:23:38.844Z"}
+{"level":"info","message":"BEGIN: GET /","reqId":"39969eb2-3bb0-414b-9e5d-329228fd32fe","timestamp":"2024-02-24T06:31:18.233Z"}
+{"level":"warn","message":"END: GET /","req":{},"reqId":"39969eb2-3bb0-414b-9e5d-329228fd32fe","res":{"status":404},"responseTime":1,"timestamp":"2024-02-24T06:31:18.234Z"}
