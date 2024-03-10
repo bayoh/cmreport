@@ -7,11 +7,8 @@ es/
 yarn-error.log
 lerna-debug.log
 /.vscode
-/.idea
-*.sqlite
 coverage
 .umi
-/uploads
 .env.test
 docs-dist/
 .npmrc
