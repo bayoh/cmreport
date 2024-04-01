@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/ibrahimbayoh/Documents/Dev/DSTI/cmreport/storage/logs/.e9586ca226b16e0b1e7dd7d4494d03da291e6ecf-audit.json",
+    "files": [
+        {
+            "date": 1710097664358,
+            "name": "/Users/ibrahimbayoh/Documents/Dev/DSTI/cmreport/storage/logs/nocobase-2024-03-10-19.log",
+            "hash": "0a404107af067a794837d94d370731168ef2c2023de779e493ad82ea4bea1434"
+        },
+        {
+            "date": 1710102150160,
+            "name": "/Users/ibrahimbayoh/Documents/Dev/DSTI/cmreport/storage/logs/nocobase-2024-03-10-20.log",
+            "hash": "a1f66585522ee77250b18649ebefdd5ddfa1a7d3aea05d698e472e0bc105bc43"
+        }
+    ],
+    "hashType": "sha256"
+}

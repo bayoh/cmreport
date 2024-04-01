@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/ibrahimbayoh/Documents/Dev/DSTI/cmreport/storage/logs/main/.ba930702afd724683a8fc7c5ad027a565c112cba-audit.json",
+    "files": [
+        {
+            "date": 1711995248576,
+            "name": "/Users/ibrahimbayoh/Documents/Dev/DSTI/cmreport/storage/logs/main/sql_2024-04-01.log",
+            "hash": "d17358a20b6add80dbe3449226c8dcf04d196cf4bc2732c3ca91cef9eb2ab46e"
+        }
+    ],
+    "hashType": "sha256"
+}

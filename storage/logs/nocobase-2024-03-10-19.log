@@ -1,0 +1,16 @@
+{"level":"info","message":"BEGIN: GET /","reqId":"24cbb158-ae00-4dd9-86d2-01730a2dc76b","timestamp":"2024-03-10T19:08:15.642Z"}
+{"level":"warn","message":"END: GET /","req":{},"reqId":"24cbb158-ae00-4dd9-86d2-01730a2dc76b","res":{"status":404},"responseTime":17,"timestamp":"2024-03-10T19:08:15.658Z"}
+{"level":"info","message":"BEGIN: GET /apple-touch-icon-precomposed.png","reqId":"5058351c-778c-43ad-b530-93630a4089a8","timestamp":"2024-03-10T19:08:15.700Z"}
+{"level":"warn","message":"END: GET /apple-touch-icon-precomposed.png","req":{},"reqId":"5058351c-778c-43ad-b530-93630a4089a8","res":{"status":404},"responseTime":2,"timestamp":"2024-03-10T19:08:15.702Z"}
+{"level":"info","message":"BEGIN: GET /apple-touch-icon.png","reqId":"27309bc1-fff6-4fca-81e6-80f67000dc5f","timestamp":"2024-03-10T19:08:15.705Z"}
+{"level":"warn","message":"END: GET /apple-touch-icon.png","req":{},"reqId":"27309bc1-fff6-4fca-81e6-80f67000dc5f","res":{"status":404},"responseTime":2,"timestamp":"2024-03-10T19:08:15.707Z"}
+{"level":"info","message":"BEGIN: GET /favicon.ico","reqId":"afbf777b-b0d4-4220-a4fb-e05009e35de7","timestamp":"2024-03-10T19:08:15.843Z"}
+{"level":"warn","message":"END: GET /favicon.ico","req":{},"reqId":"afbf777b-b0d4-4220-a4fb-e05009e35de7","res":{"status":404},"responseTime":2,"timestamp":"2024-03-10T19:08:15.845Z"}
+{"level":"info","message":"BEGIN: GET /admin","reqId":"934fcf5c-0426-4e55-b067-6b7a6fddbd4d","timestamp":"2024-03-10T19:08:28.240Z"}
+{"level":"warn","message":"END: GET /admin","req":{},"reqId":"934fcf5c-0426-4e55-b067-6b7a6fddbd4d","res":{"status":404},"responseTime":3,"timestamp":"2024-03-10T19:08:28.243Z"}
+{"level":"info","message":"BEGIN: GET /admin/settings/ui-schema-storage/block-templates","reqId":"56242ce8-e3be-4ce9-b79b-b2852959999f","timestamp":"2024-03-10T19:08:37.803Z"}
+{"level":"warn","message":"END: GET /admin/settings/ui-schema-storage/block-templates","req":{},"reqId":"56242ce8-e3be-4ce9-b79b-b2852959999f","res":{"status":404},"responseTime":2,"timestamp":"2024-03-10T19:08:37.805Z"}
+{"level":"warn","message":"applicationPlugins collection not exists in 100Days","timestamp":"2024-03-10T19:11:42.698Z"}
+{"level":"info","message":"BEGIN: GET /","reqId":"12e22a27-88f7-4068-9c21-28855d5e1142","timestamp":"2024-03-10T19:11:50.452Z"}
+{"level":"warn","message":"END: GET /","req":{},"reqId":"12e22a27-88f7-4068-9c21-28855d5e1142","res":{"status":404},"responseTime":16,"timestamp":"2024-03-10T19:11:50.468Z"}
+{"level":"warn","message":"applicationPlugins collection not exists in 100Days","timestamp":"2024-03-10T19:14:07.108Z"}
